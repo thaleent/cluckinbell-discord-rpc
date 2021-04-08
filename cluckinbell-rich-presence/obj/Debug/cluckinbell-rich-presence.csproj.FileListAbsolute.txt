@@ -1,0 +1,13 @@
+C:\Users\thale\source\repos\cluckinbell-rich-presence\cluckinbell-rich-presence\bin\Debug\cluckinbell-rich-presence.exe.config
+C:\Users\thale\source\repos\cluckinbell-rich-presence\cluckinbell-rich-presence\bin\Debug\cluckinbell-rich-presence.exe
+C:\Users\thale\source\repos\cluckinbell-rich-presence\cluckinbell-rich-presence\bin\Debug\cluckinbell-rich-presence.pdb
+C:\Users\thale\source\repos\cluckinbell-rich-presence\cluckinbell-rich-presence\bin\Debug\Guna.UI2.dll
+C:\Users\thale\source\repos\cluckinbell-rich-presence\cluckinbell-rich-presence\obj\Debug\cluckinbell-rich-presence.csprojAssemblyReference.cache
+C:\Users\thale\source\repos\cluckinbell-rich-presence\cluckinbell-rich-presence\obj\Debug\cluckinbell_rich_presence.connection.resources
+C:\Users\thale\source\repos\cluckinbell-rich-presence\cluckinbell-rich-presence\obj\Debug\cluckinbell_rich_presence.Properties.Resources.resources
+C:\Users\thale\source\repos\cluckinbell-rich-presence\cluckinbell-rich-presence\obj\Debug\cluckinbell-rich-presence.csproj.GenerateResource.cache
+C:\Users\thale\source\repos\cluckinbell-rich-presence\cluckinbell-rich-presence\obj\Debug\cluckinbell-rich-presence.csproj.CoreCompileInputs.cache
+C:\Users\thale\source\repos\cluckinbell-rich-presence\cluckinbell-rich-presence\obj\Debug\cluckinbell-rich-presence.csproj.CopyComplete
+C:\Users\thale\source\repos\cluckinbell-rich-presence\cluckinbell-rich-presence\obj\Debug\cluckinbell-rich-presence.exe
+C:\Users\thale\source\repos\cluckinbell-rich-presence\cluckinbell-rich-presence\obj\Debug\cluckinbell-rich-presence.pdb
+C:\Users\thale\source\repos\cluckinbell-rich-presence\cluckinbell-rich-presence\bin\Debug\Guna.UI.dll
